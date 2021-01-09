@@ -27,6 +27,8 @@
 #include <QPaintEvent>
 #include <QKeyEvent>
 
+//git change
+
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
